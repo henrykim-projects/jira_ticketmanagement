@@ -20,9 +20,7 @@ Jira is a productivity software that can be used to manage tasks, projects, and 
 </br> 
 <b>Establish Ticket Life Style</b>
 - Following a ticket from the beginning, as an open request to its conclusion as a resolved issue
-  
 <br/> 
-
 <b>Evaluate Best Practices and Key Features</b>
 - Honing in on features that optimize It operations such as automated alerts, ticket prioritzation, and email-ticket conversion
 <br/> 
