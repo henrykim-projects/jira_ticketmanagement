@@ -18,14 +18,20 @@ Jira is a productivity software that can be used to manage tasks, projects, and 
 <b>Understand Jira Service Management</b>
 - Jira is a powerful and versatile application, and today, we want to understand and focus on features regarding IT management.
 
-<b>
+<b>Establish Ticket Life Style Point-to-Point</b>
+- Following a ticket from the beginning, as an open request to its conclusion as a resolved issue
+<br>
+<b>Evaluate Best Practices and Key Features
+- Honing in on features that facilitate service management such as automated alerts, ticket prioritzation, email-ticket conversion, 
+
+- Spotlight 
 
 <h2>Configuration Steps:</h2>
 
-__1. Adding AD Domain Services and Post Deployment Configuration__ <br/>
+__1. Ticket Creation__ <br/>
 <br/>
-a. Next we will be adding AD Domain Services, this serves as the database to manage users and permissions with: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/888ec3e102923dc668412a4d4668d7b0429c636f/images/nc_6.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+a. Clients have the option to submit tickets with either through a portal, email address, or real-time chats. Tickets submitted through all three channels are collected in one queue for ease of use: <br/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e363cb21fc788ab0b725805b2dfb69e86f742928/images/jira_1.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 b. Post-deployment configuration: <br/>
