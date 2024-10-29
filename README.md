@@ -16,7 +16,7 @@ Jira is a productivity software that can be used to manage tasks, projects, and 
 <h2>Objectives:</h2>
 
 <b>Understand Jira Service Management</b>
-- Jira is a powerful and versatile application, and today, we want to understand and focus on features regarding IT management.
+- Jira is a powerful and versatile application, and today, we want to understand and focus on features regarding IT management
 <br/>
 <b>Establish Ticket Life Style Point-to-Point</b>
 - Following a ticket from the beginning, as an open request to its conclusion as a resolved issue
