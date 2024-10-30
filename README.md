@@ -57,7 +57,7 @@ c. With the ticket assigned, the IT analyst responds to the requester to gather 
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/ebd7f1915813c0daec27e553013ab0bce1b65b0d/images/jira_9.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-d. When the issue is successfully resolved, IT support can mark it done- additional documentation such as linked issues can be shared internally to avoid similar blockers in the future: 
+d. When the issue is successfully resolved, IT support can mark it done- additional documentation such as linked issues can be shared internally to avoid similar blockers in the future: <br/>
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e7729dd9f15b0c4675654603a3bbf16869b7b023/images/jira_10.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
