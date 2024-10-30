@@ -63,30 +63,12 @@ d. When the issue is successfully resolved, IT support can mark it done- additio
 <br/>
 __3. Additional Key Features__ <br/>
 <br/>
-a. Jira holds certain features that help with process optimization- one such feature is the "Rules" feature that functions similar to software code, where certain actions are taken depending if specific conditions are met: <br/>
+a. Jira holds certain features that help with process optimization- one such feature is the "Rules" feature that functions similar to software code, where certain actions are taken depending if specific conditions are met. For example, if a ticket is marked "Elevated" then an automatic email reaching out to the apporpriate tier analyst will be sent automatically, without having to manually contact them. This way, the analyst can seamlessly respond to other tickets: <br/>
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e9d326033aad9106e163bf0d38395cd17fcd66af/images/jira_11.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-b. Manually configure the scope, the range of IP addresses, available as well as the subnet mask : <br/>
+b. Jira offers an alternate look for the ticket queue as a Kanban board. A Kanban board helps teams visualize tasks and assist with project management. It is frequently implemented for agile softaware projects, and especially useful for IT ticket management: <br/>
 <img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_25.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_26.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-c. It is possible to set the duration for distributed IP addresses. This is commonly seen in cafes, where Wi-Fi access is limited to a couple hours, and additional purchase is necessaru for reconnection: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_27.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-d. Set the default gateway, as well as the DNS server, to the Domain Controller's IP address: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_28.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_29.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-e. Now the network is ready to provide IP addresses within a scope for new users. Current leases, policies, and other management tools are available to facilitate user access: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_30.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 </p>
