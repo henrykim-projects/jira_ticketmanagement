@@ -46,11 +46,11 @@ a. Submitted tickets appear in a queue. The queue contains helpful information s
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/9f40d4fe26704066f4697824795eda5001725df0/images/jira_6.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-b. We will configure NAT to connect users to the internet through one IP address, the Domain Controller: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/fb1fd1b9678440ccd11c9a9ef883e3d27979df78/images/nc_20.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+b. The status of the ticket can be further changed. For example, they can be elevated to a higher tier for further support, cancelled when the user no longer needs support, and resolved for when the issue is done: <br/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/02921ef59197addbe046df564ca11e07da68fc4c/images/jira_14.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
-<br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/fb1fd1b9678440ccd11c9a9ef883e3d27979df78/images/nc_21.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+When the IT staff decides to assign themselves a ticket, the issue's urgency and impact are indicated lending to triage and risk management for issues that affect a higher volume of devices or severity:  
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/02921ef59197addbe046df564ca11e07da68fc4c/images/jira_7.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 c. Select the Internet connection we labelled from the setup portion of the project (not the internal network)
