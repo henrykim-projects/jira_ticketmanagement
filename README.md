@@ -40,33 +40,10 @@ Once an option is selected, the user can elaborate and provide information on th
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/4111203b8a55746b597952c64a6fc1b12c7e2622/images/jira_3.PNG" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />  
 <br />
-c. Creating the main domain forest:  <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/7d2b6b00db83259673f2465f2696081894db7a65/images/nc_9.PNG" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-d. After successfully completeing configuration, the domain name and admin account will be visible:  <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/7d2b6b00db83259673f2465f2696081894db7a65/images/nc_11.PNG" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-e. With AD Users and Computers, create a organizational unit for admin accounts: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/25b2e12ea93c1007e18c14c32d4346ab17dfd628/images/nc_13.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
+__2. Responding to Tickets__ <br/>
 <br/>
-f. Create admin account. Password expiration and change password settings add layers of account management: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/25b2e12ea93c1007e18c14c32d4346ab17dfd628/images/nc_15.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/25b2e12ea93c1007e18c14c32d4346ab17dfd628/images/nc_16.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br/> 
-<br/>
-The account is now in both Users and Admins groups
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/c6a8cd48df4631062bc775b02b18d89e1df486c4/images/nc_18.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br/>
-__2. Adding Routing and Remote Access__ <br/>
-<br/>
-a. In "Add Server Roles", select Remote Access: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/fb1fd1b9678440ccd11c9a9ef883e3d27979df78/images/nc_19.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+a. Submitted tickets appear in a queue. The queue contains helpful information such as request type, the reporter, summary, time created, and status. 'Open' indicates tickets that are ready for work while 'Waiting for Support' tickets need a response from the IT team.: <br/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/9f40d4fe26704066f4697824795eda5001725df0/images/jira_6.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 b. We will configure NAT to connect users to the internet through one IP address, the Domain Controller: <br/>
