@@ -53,7 +53,7 @@ When the IT staff decides to assign themselves a ticket, the issue's urgency and
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/02921ef59197addbe046df564ca11e07da68fc4c/images/jira_7.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-c. With the ticket understood and assigned, the IT analyst responds to the requester to gather more information or help them with a solution, while exercising excellent customer service:
+c. With the ticket assigned, the IT analyst responds to the requester to gather more information or help them with a solution, while exercising excellent customer service:<br/>
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/ebd7f1915813c0daec27e553013ab0bce1b65b0d/images/jira_9.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
