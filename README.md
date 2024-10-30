@@ -57,8 +57,8 @@ c. With the ticket assigned, the IT analyst responds to the requester to gather 
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/ebd7f1915813c0daec27e553013ab0bce1b65b0d/images/jira_9.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-d. The Domain Controller will have a green indicator to confirm network connectivity
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/2a34d15153eb4b8d00f982d95ce0def14f797953/images/nc_23.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+d. When the issue is successfully resolved, IT support can mark it done- additional documentation such as linked issues can be shared internally to avoid similar blockers in the future: 
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e7729dd9f15b0c4675654603a3bbf16869b7b023/images/jira_10.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 __3. DHCP Server Configuration__ <br/>
