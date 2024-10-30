@@ -61,10 +61,10 @@ d. When the issue is successfully resolved, IT support can mark it done- additio
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e7729dd9f15b0c4675654603a3bbf16869b7b023/images/jira_10.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-__3. DHCP Server Configuration__ <br/>
+__3. Additional Key Features__ <br/>
 <br/>
-a. Add DHCP in server roles for remote server adiministration: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_24.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+a. Jira holds certain features that help with process optimization- one such feature is the "Rules" feature that functions similar to software code, where certain actions are taken depending if specific conditions are met: <br/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/e9d326033aad9106e163bf0d38395cd17fcd66af/images/jira_11.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 b. Manually configure the scope, the range of IP addresses, available as well as the subnet mask : <br/>
