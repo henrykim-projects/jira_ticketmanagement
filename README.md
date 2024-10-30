@@ -74,7 +74,7 @@ b. Jira offers an alternate look for the ticket queue as a Kanban board. A Kanba
 </p>
 
 <h2>Final Thoughts</h2>
-In this project, we followed the life cycle of issue tickets and how IT support respond to and resolve them. Jira Service Management optimize IT operations with client portals, request categorizations, and linked issues documentation, as well as key features such as automated alerts and Kanban boards to assist teams with task management. In conclusion, IT teams can utilize Jira to fix issues and enhance client satisfaction. 
+In this project, we followed the life cycle of issue tickets and how IT support respond to and resolve them. We also observed how Jira Service Management optimizes IT operations with client portals, request categorizations, and linked issues documentation, as well as highlighted key features such as automated alerts and Kanban boards to assist teams with task management. In conclusion, IT teams can utilize Jira and its corresponding agile features to fix issues and enhance client satisfaction. 
 <br><br/>
 <!--
  ```diff
