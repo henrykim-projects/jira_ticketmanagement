@@ -49,12 +49,12 @@ a. Submitted tickets appear in a queue. The queue contains helpful information s
 b. The status of the ticket can be further changed. For example, they can be elevated to a higher tier for further support, cancelled when the user no longer needs support, and resolved for when the issue is done: <br/>
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/02921ef59197addbe046df564ca11e07da68fc4c/images/jira_14.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
-When the IT staff decides to assign themselves a ticket, the issue's urgency and impact are indicated lending to triage and risk management for issues that affect a higher volume of devices or severity:  
+When the IT staff decides to assign themselves a ticket, the issue's urgency and impact are indicated, lending themselves to triage and risk management for issues that affect a higher volume of devices or severity:  
 <img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/02921ef59197addbe046df564ca11e07da68fc4c/images/jira_7.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
-c. Select the Internet connection we labelled from the setup portion of the project (not the internal network)
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_22.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+c. With the ticket understood and assigned, the IT analyst responds to the requester to gather more information or help them with a solution, while exercising excellent customer service:
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/ebd7f1915813c0daec27e553013ab0bce1b65b0d/images/jira_9.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 d. The Domain Controller will have a green indicator to confirm network connectivity
