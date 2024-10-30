@@ -34,10 +34,10 @@ a. Clients have the option to submit tickets with either through a portal, email
 <br/> 
 <br/>
 b. Requests can be submitted by category such as "Common Requests" or more specific hardware or application issues. <br/>
-<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/4111203b8a55746b597952c64a6fc1b12c7e2622/images/jira_2.PNG" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/4111203b8a55746b597952c64a6fc1b12c7e2622/images/jira_2.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br /> 
 Once an option is selected, the user can elaborate and provide information on their issue:
-<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/4111203b8a55746b597952c64a6fc1b12c7e2622/images/jira_3.PNG" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/4111203b8a55746b597952c64a6fc1b12c7e2622/images/jira_3.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />  
 <br />
 __2. Responding to Tickets__ <br/>
