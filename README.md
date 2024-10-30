@@ -68,13 +68,13 @@ a. Jira holds certain features that help with process optimization- one such fea
 <br/> 
 <br/>
 b. Jira offers an alternate look for the ticket queue as a Kanban board. A Kanban board helps teams visualize tasks and assist with project management. It is frequently implemented for agile softaware projects, and especially useful for IT ticket management: <br/>
-<img src="https://github.com/henrykim-projects/activedirectory_config/blob/07da8f3778af75e098ea64190f55abed46404224/images/nc_25.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/henrykim-projects/jira_ticketmanagement/blob/0b8de474fb3a309dd8585268a320dbe95f96eb74/images/jira_12.PNG" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br/> 
 <br/>
 </p>
 
 <h2>Final Thoughts</h2>
-Now that DHCP/DNS, Remote Access, and Domain Services are fully configured, we are ready to add users to our network. Active Directory demonstrated many features that give granular control to how and to whom internet is provided. We also saw modes of access management and identity security in the form of organizational units, admin account controls, and IP lease durations. In the final step, we will add users generated through a Powershell script and confirm network connectivity through a DHCP-provided IP address. 
+In this project, we followed the life cycle of issue tickets and how IT support respond to and resolve them. Jira Service Management optimize IT operations with client portals, request categorizations, and linked issues documentation, as well as key features such as automated alerts and Kanban boards to assist teams with task management. In conclusion, IT teams can utilize Jira to fix issues and enhance client satisfaction. 
 <br><br/>
 <!--
  ```diff
