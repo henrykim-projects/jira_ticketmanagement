@@ -1,4 +1,4 @@
-<h1>Jira Ticket Management: Tiered Support and Automated Workflow</h1>
+<h1>Jira Ticket Management: Ticket Lifecycle and Process Optimization</h1>
 
 
 <h2>Description</h2>
